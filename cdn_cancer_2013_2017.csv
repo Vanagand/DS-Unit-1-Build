@@ -1,0 +1,131 @@
+year,geo,age,sex,(ICD-O-3),characteristics,uom,value
+2013,Canada (excluding Quebec),"Total, all ages",Both sexes,"Total, all primary sites of cancer [C00.0-C80.9]",Number of new cancer cases,Number,143115
+2014,Canada (excluding Quebec),"Total, all ages",Both sexes,"Total, all primary sites of cancer [C00.0-C80.9]",Number of new cancer cases,Number,145300
+2015,Canada (excluding Quebec),"Total, all ages",Both sexes,"Total, all primary sites of cancer [C00.0-C80.9]",Number of new cancer cases,Number,148125
+2016,Canada (excluding Quebec),"Total, all ages",Both sexes,"Total, all primary sites of cancer [C00.0-C80.9]",Number of new cancer cases,Number,151150
+2017,Canada (excluding Quebec),"Total, all ages",Both sexes,"Total, all primary sites of cancer [C00.0-C80.9]",Number of new cancer cases,Number,149435
+2013,Canada (excluding Quebec),"Total, all ages",Both sexes,"Total, all primary sites of cancer [C00.0-C80.9]",Cancer incidence rate,"Rate per 100,000 population",530.6
+2014,Canada (excluding Quebec),"Total, all ages",Both sexes,"Total, all primary sites of cancer [C00.0-C80.9]",Cancer incidence rate,"Rate per 100,000 population",532.5
+2015,Canada (excluding Quebec),"Total, all ages",Both sexes,"Total, all primary sites of cancer [C00.0-C80.9]",Cancer incidence rate,"Rate per 100,000 population",538.1
+2016,Canada (excluding Quebec),"Total, all ages",Both sexes,"Total, all primary sites of cancer [C00.0-C80.9]",Cancer incidence rate,"Rate per 100,000 population",542.1
+2017,Canada (excluding Quebec),"Total, all ages",Both sexes,"Total, all primary sites of cancer [C00.0-C80.9]",Cancer incidence rate,"Rate per 100,000 population",529.1
+2013,Newfoundland and Labrador,"Total, all ages",Both sexes,"Total, all primary sites of cancer [C00.0-C80.9]",Number of new cancer cases,Number,3400
+2014,Newfoundland and Labrador,"Total, all ages",Both sexes,"Total, all primary sites of cancer [C00.0-C80.9]",Number of new cancer cases,Number,3560
+2015,Newfoundland and Labrador,"Total, all ages",Both sexes,"Total, all primary sites of cancer [C00.0-C80.9]",Number of new cancer cases,Number,3490
+2016,Newfoundland and Labrador,"Total, all ages",Both sexes,"Total, all primary sites of cancer [C00.0-C80.9]",Number of new cancer cases,Number,3635
+2017,Newfoundland and Labrador,"Total, all ages",Both sexes,"Total, all primary sites of cancer [C00.0-C80.9]",Number of new cancer cases,Number,3540
+2013,Newfoundland and Labrador,"Total, all ages",Both sexes,"Total, all primary sites of cancer [C00.0-C80.9]",Cancer incidence rate,"Rate per 100,000 population",645
+2014,Newfoundland and Labrador,"Total, all ages",Both sexes,"Total, all primary sites of cancer [C00.0-C80.9]",Cancer incidence rate,"Rate per 100,000 population",674
+2015,Newfoundland and Labrador,"Total, all ages",Both sexes,"Total, all primary sites of cancer [C00.0-C80.9]",Cancer incidence rate,"Rate per 100,000 population",660.8
+2016,Newfoundland and Labrador,"Total, all ages",Both sexes,"Total, all primary sites of cancer [C00.0-C80.9]",Cancer incidence rate,"Rate per 100,000 population",686.6
+2017,Newfoundland and Labrador,"Total, all ages",Both sexes,"Total, all primary sites of cancer [C00.0-C80.9]",Cancer incidence rate,"Rate per 100,000 population",670
+2013,Prince Edward Island,"Total, all ages",Both sexes,"Total, all primary sites of cancer [C00.0-C80.9]",Number of new cancer cases,Number,875
+2014,Prince Edward Island,"Total, all ages",Both sexes,"Total, all primary sites of cancer [C00.0-C80.9]",Number of new cancer cases,Number,890
+2015,Prince Edward Island,"Total, all ages",Both sexes,"Total, all primary sites of cancer [C00.0-C80.9]",Number of new cancer cases,Number,910
+2016,Prince Edward Island,"Total, all ages",Both sexes,"Total, all primary sites of cancer [C00.0-C80.9]",Number of new cancer cases,Number,890
+2017,Prince Edward Island,"Total, all ages",Both sexes,"Total, all primary sites of cancer [C00.0-C80.9]",Number of new cancer cases,Number,925
+2013,Prince Edward Island,"Total, all ages",Both sexes,"Total, all primary sites of cancer [C00.0-C80.9]",Cancer incidence rate,"Rate per 100,000 population",607.2
+2014,Prince Edward Island,"Total, all ages",Both sexes,"Total, all primary sites of cancer [C00.0-C80.9]",Cancer incidence rate,"Rate per 100,000 population",616.8
+2015,Prince Edward Island,"Total, all ages",Both sexes,"Total, all primary sites of cancer [C00.0-C80.9]",Cancer incidence rate,"Rate per 100,000 population",629.6
+2016,Prince Edward Island,"Total, all ages",Both sexes,"Total, all primary sites of cancer [C00.0-C80.9]",Cancer incidence rate,"Rate per 100,000 population",605.6
+2017,Prince Edward Island,"Total, all ages",Both sexes,"Total, all primary sites of cancer [C00.0-C80.9]",Cancer incidence rate,"Rate per 100,000 population",614.7
+2013,Nova Scotia,"Total, all ages",Both sexes,"Total, all primary sites of cancer [C00.0-C80.9]",Number of new cancer cases,Number,6130
+2014,Nova Scotia,"Total, all ages",Both sexes,"Total, all primary sites of cancer [C00.0-C80.9]",Number of new cancer cases,Number,6095
+2015,Nova Scotia,"Total, all ages",Both sexes,"Total, all primary sites of cancer [C00.0-C80.9]",Number of new cancer cases,Number,6280
+2016,Nova Scotia,"Total, all ages",Both sexes,"Total, all primary sites of cancer [C00.0-C80.9]",Number of new cancer cases,Number,6325
+2017,Nova Scotia,"Total, all ages",Both sexes,"Total, all primary sites of cancer [C00.0-C80.9]",Number of new cancer cases,Number,6005
+2013,Nova Scotia,"Total, all ages",Both sexes,"Total, all primary sites of cancer [C00.0-C80.9]",Cancer incidence rate,"Rate per 100,000 population",651.8
+2014,Nova Scotia,"Total, all ages",Both sexes,"Total, all primary sites of cancer [C00.0-C80.9]",Cancer incidence rate,"Rate per 100,000 population",649.4
+2015,Nova Scotia,"Total, all ages",Both sexes,"Total, all primary sites of cancer [C00.0-C80.9]",Cancer incidence rate,"Rate per 100,000 population",670.6
+2016,Nova Scotia,"Total, all ages",Both sexes,"Total, all primary sites of cancer [C00.0-C80.9]",Cancer incidence rate,"Rate per 100,000 population",670.9
+2017,Nova Scotia,"Total, all ages",Both sexes,"Total, all primary sites of cancer [C00.0-C80.9]",Cancer incidence rate,"Rate per 100,000 population",631.8
+2013,New Brunswick,"Total, all ages",Both sexes,"Total, all primary sites of cancer [C00.0-C80.9]",Number of new cancer cases,Number,4785
+2014,New Brunswick,"Total, all ages",Both sexes,"Total, all primary sites of cancer [C00.0-C80.9]",Number of new cancer cases,Number,4680
+2015,New Brunswick,"Total, all ages",Both sexes,"Total, all primary sites of cancer [C00.0-C80.9]",Number of new cancer cases,Number,4755
+2016,New Brunswick,"Total, all ages",Both sexes,"Total, all primary sites of cancer [C00.0-C80.9]",Number of new cancer cases,Number,4835
+2017,New Brunswick,"Total, all ages",Both sexes,"Total, all primary sites of cancer [C00.0-C80.9]",Number of new cancer cases,Number,4845
+2013,New Brunswick,"Total, all ages",Both sexes,"Total, all primary sites of cancer [C00.0-C80.9]",Cancer incidence rate,"Rate per 100,000 population",630.8
+2014,New Brunswick,"Total, all ages",Both sexes,"Total, all primary sites of cancer [C00.0-C80.9]",Cancer incidence rate,"Rate per 100,000 population",616.6
+2015,New Brunswick,"Total, all ages",Both sexes,"Total, all primary sites of cancer [C00.0-C80.9]",Cancer incidence rate,"Rate per 100,000 population",626.6
+2016,New Brunswick,"Total, all ages",Both sexes,"Total, all primary sites of cancer [C00.0-C80.9]",Cancer incidence rate,"Rate per 100,000 population",633.4
+2017,New Brunswick,"Total, all ages",Both sexes,"Total, all primary sites of cancer [C00.0-C80.9]",Cancer incidence rate,"Rate per 100,000 population",631.9
+2013,Ontario,"Total, all ages",Both sexes,"Total, all primary sites of cancer [C00.0-C80.9]",Number of new cancer cases,Number,74870
+2014,Ontario,"Total, all ages",Both sexes,"Total, all primary sites of cancer [C00.0-C80.9]",Number of new cancer cases,Number,75725
+2015,Ontario,"Total, all ages",Both sexes,"Total, all primary sites of cancer [C00.0-C80.9]",Number of new cancer cases,Number,77375
+2016,Ontario,"Total, all ages",Both sexes,"Total, all primary sites of cancer [C00.0-C80.9]",Number of new cancer cases,Number,79670
+2017,Ontario,"Total, all ages",Both sexes,"Total, all primary sites of cancer [C00.0-C80.9]",Number of new cancer cases,Number,79215
+2013,Ontario,"Total, all ages",Both sexes,"Total, all primary sites of cancer [C00.0-C80.9]",Cancer incidence rate,"Rate per 100,000 population",554.2
+2014,Ontario,"Total, all ages",Both sexes,"Total, all primary sites of cancer [C00.0-C80.9]",Cancer incidence rate,"Rate per 100,000 population",556.1
+2015,Ontario,"Total, all ages",Both sexes,"Total, all primary sites of cancer [C00.0-C80.9]",Cancer incidence rate,"Rate per 100,000 population",564.5
+2016,Ontario,"Total, all ages",Both sexes,"Total, all primary sites of cancer [C00.0-C80.9]",Cancer incidence rate,"Rate per 100,000 population",574.2
+2017,Ontario,"Total, all ages",Both sexes,"Total, all primary sites of cancer [C00.0-C80.9]",Cancer incidence rate,"Rate per 100,000 population",562.9
+2013,Manitoba,"Total, all ages",Both sexes,"Total, all primary sites of cancer [C00.0-C80.9]",Number of new cancer cases,Number,6325
+2014,Manitoba,"Total, all ages",Both sexes,"Total, all primary sites of cancer [C00.0-C80.9]",Number of new cancer cases,Number,6400
+2015,Manitoba,"Total, all ages",Both sexes,"Total, all primary sites of cancer [C00.0-C80.9]",Number of new cancer cases,Number,6425
+2016,Manitoba,"Total, all ages",Both sexes,"Total, all primary sites of cancer [C00.0-C80.9]",Number of new cancer cases,Number,6455
+2017,Manitoba,"Total, all ages",Both sexes,"Total, all primary sites of cancer [C00.0-C80.9]",Number of new cancer cases,Number,6310
+2013,Manitoba,"Total, all ages",Both sexes,"Total, all primary sites of cancer [C00.0-C80.9]",Cancer incidence rate,"Rate per 100,000 population",500.2
+2014,Manitoba,"Total, all ages",Both sexes,"Total, all primary sites of cancer [C00.0-C80.9]",Cancer incidence rate,"Rate per 100,000 population",500.4
+2015,Manitoba,"Total, all ages",Both sexes,"Total, all primary sites of cancer [C00.0-C80.9]",Cancer incidence rate,"Rate per 100,000 population",497.2
+2016,Manitoba,"Total, all ages",Both sexes,"Total, all primary sites of cancer [C00.0-C80.9]",Cancer incidence rate,"Rate per 100,000 population",491.2
+2017,Manitoba,"Total, all ages",Both sexes,"Total, all primary sites of cancer [C00.0-C80.9]",Cancer incidence rate,"Rate per 100,000 population",472.7
+2013,Saskatchewan,"Total, all ages",Both sexes,"Total, all primary sites of cancer [C00.0-C80.9]",Number of new cancer cases,Number,5565
+2014,Saskatchewan,"Total, all ages",Both sexes,"Total, all primary sites of cancer [C00.0-C80.9]",Number of new cancer cases,Number,5450
+2015,Saskatchewan,"Total, all ages",Both sexes,"Total, all primary sites of cancer [C00.0-C80.9]",Number of new cancer cases,Number,5475
+2016,Saskatchewan,"Total, all ages",Both sexes,"Total, all primary sites of cancer [C00.0-C80.9]",Number of new cancer cases,Number,5555
+2017,Saskatchewan,"Total, all ages",Both sexes,"Total, all primary sites of cancer [C00.0-C80.9]",Number of new cancer cases,Number,5430
+2013,Saskatchewan,"Total, all ages",Both sexes,"Total, all primary sites of cancer [C00.0-C80.9]",Cancer incidence rate,"Rate per 100,000 population",506
+2014,Saskatchewan,"Total, all ages",Both sexes,"Total, all primary sites of cancer [C00.0-C80.9]",Cancer incidence rate,"Rate per 100,000 population",489.7
+2015,Saskatchewan,"Total, all ages",Both sexes,"Total, all primary sites of cancer [C00.0-C80.9]",Cancer incidence rate,"Rate per 100,000 population",488.4
+2016,Saskatchewan,"Total, all ages",Both sexes,"Total, all primary sites of cancer [C00.0-C80.9]",Cancer incidence rate,"Rate per 100,000 population",489
+2017,Saskatchewan,"Total, all ages",Both sexes,"Total, all primary sites of cancer [C00.0-C80.9]",Cancer incidence rate,"Rate per 100,000 population",471.8
+2013,Alberta,"Total, all ages",Both sexes,"Total, all primary sites of cancer [C00.0-C80.9]",Number of new cancer cases,Number,16520
+2014,Alberta,"Total, all ages",Both sexes,"Total, all primary sites of cancer [C00.0-C80.9]",Number of new cancer cases,Number,17770
+2015,Alberta,"Total, all ages",Both sexes,"Total, all primary sites of cancer [C00.0-C80.9]",Number of new cancer cases,Number,18040
+2016,Alberta,"Total, all ages",Both sexes,"Total, all primary sites of cancer [C00.0-C80.9]",Number of new cancer cases,Number,18310
+2017,Alberta,"Total, all ages",Both sexes,"Total, all primary sites of cancer [C00.0-C80.9]",Number of new cancer cases,Number,18150
+2013,Alberta,"Total, all ages",Both sexes,"Total, all primary sites of cancer [C00.0-C80.9]",Cancer incidence rate,"Rate per 100,000 population",415
+2014,Alberta,"Total, all ages",Both sexes,"Total, all primary sites of cancer [C00.0-C80.9]",Cancer incidence rate,"Rate per 100,000 population",435.2
+2015,Alberta,"Total, all ages",Both sexes,"Total, all primary sites of cancer [C00.0-C80.9]",Cancer incidence rate,"Rate per 100,000 population",435.3
+2016,Alberta,"Total, all ages",Both sexes,"Total, all primary sites of cancer [C00.0-C80.9]",Cancer incidence rate,"Rate per 100,000 population",436.4
+2017,Alberta,"Total, all ages",Both sexes,"Total, all primary sites of cancer [C00.0-C80.9]",Cancer incidence rate,"Rate per 100,000 population",427.7
+2013,British Columbia,"Total, all ages",Both sexes,"Total, all primary sites of cancer [C00.0-C80.9]",Number of new cancer cases,Number,24300
+2014,British Columbia,"Total, all ages",Both sexes,"Total, all primary sites of cancer [C00.0-C80.9]",Number of new cancer cases,Number,24380
+2015,British Columbia,"Total, all ages",Both sexes,"Total, all primary sites of cancer [C00.0-C80.9]",Number of new cancer cases,Number,24995
+2016,British Columbia,"Total, all ages",Both sexes,"Total, all primary sites of cancer [C00.0-C80.9]",Number of new cancer cases,Number,25060
+2017,British Columbia,"Total, all ages",Both sexes,"Total, all primary sites of cancer [C00.0-C80.9]",Number of new cancer cases,Number,24610
+2013,British Columbia,"Total, all ages",Both sexes,"Total, all primary sites of cancer [C00.0-C80.9]",Cancer incidence rate,"Rate per 100,000 population",524.8
+2014,British Columbia,"Total, all ages",Both sexes,"Total, all primary sites of cancer [C00.0-C80.9]",Cancer incidence rate,"Rate per 100,000 population",517.9
+2015,British Columbia,"Total, all ages",Both sexes,"Total, all primary sites of cancer [C00.0-C80.9]",Cancer incidence rate,"Rate per 100,000 population",523.3
+2016,British Columbia,"Total, all ages",Both sexes,"Total, all primary sites of cancer [C00.0-C80.9]",Cancer incidence rate,"Rate per 100,000 population",515.7
+2017,British Columbia,"Total, all ages",Both sexes,"Total, all primary sites of cancer [C00.0-C80.9]",Cancer incidence rate,"Rate per 100,000 population",499.8
+2013,Yukon,"Total, all ages",Both sexes,"Total, all primary sites of cancer [C00.0-C80.9]",Number of new cancer cases,Number,140
+2014,Yukon,"Total, all ages",Both sexes,"Total, all primary sites of cancer [C00.0-C80.9]",Number of new cancer cases,Number,130
+2015,Yukon,"Total, all ages",Both sexes,"Total, all primary sites of cancer [C00.0-C80.9]",Number of new cancer cases,Number,170
+2016,Yukon,"Total, all ages",Both sexes,"Total, all primary sites of cancer [C00.0-C80.9]",Number of new cancer cases,Number,165
+2017,Yukon,"Total, all ages",Both sexes,"Total, all primary sites of cancer [C00.0-C80.9]",Number of new cancer cases,Number,155
+2013,Yukon,"Total, all ages",Both sexes,"Total, all primary sites of cancer [C00.0-C80.9]",Cancer incidence rate,"Rate per 100,000 population",383.3
+2014,Yukon,"Total, all ages",Both sexes,"Total, all primary sites of cancer [C00.0-C80.9]",Cancer incidence rate,"Rate per 100,000 population",350.1
+2015,Yukon,"Total, all ages",Both sexes,"Total, all primary sites of cancer [C00.0-C80.9]",Cancer incidence rate,"Rate per 100,000 population",451
+2016,Yukon,"Total, all ages",Both sexes,"Total, all primary sites of cancer [C00.0-C80.9]",Cancer incidence rate,"Rate per 100,000 population",428
+2017,Yukon,"Total, all ages",Both sexes,"Total, all primary sites of cancer [C00.0-C80.9]",Cancer incidence rate,"Rate per 100,000 population",390.5
+2013,Northwest Territories,"Total, all ages",Both sexes,"Total, all primary sites of cancer [C00.0-C80.9]",Number of new cancer cases,Number,130
+2014,Northwest Territories,"Total, all ages",Both sexes,"Total, all primary sites of cancer [C00.0-C80.9]",Number of new cancer cases,Number,160
+2015,Northwest Territories,"Total, all ages",Both sexes,"Total, all primary sites of cancer [C00.0-C80.9]",Number of new cancer cases,Number,140
+2016,Northwest Territories,"Total, all ages",Both sexes,"Total, all primary sites of cancer [C00.0-C80.9]",Number of new cancer cases,Number,170
+2017,Northwest Territories,"Total, all ages",Both sexes,"Total, all primary sites of cancer [C00.0-C80.9]",Number of new cancer cases,Number,170
+2013,Northwest Territories,"Total, all ages",Both sexes,"Total, all primary sites of cancer [C00.0-C80.9]",Cancer incidence rate,"Rate per 100,000 population",296.8
+2014,Northwest Territories,"Total, all ages",Both sexes,"Total, all primary sites of cancer [C00.0-C80.9]",Cancer incidence rate,"Rate per 100,000 population",364.6
+2015,Northwest Territories,"Total, all ages",Both sexes,"Total, all primary sites of cancer [C00.0-C80.9]",Cancer incidence rate,"Rate per 100,000 population",316.5
+2016,Northwest Territories,"Total, all ages",Both sexes,"Total, all primary sites of cancer [C00.0-C80.9]",Cancer incidence rate,"Rate per 100,000 population",380.7
+2017,Northwest Territories,"Total, all ages",Both sexes,"Total, all primary sites of cancer [C00.0-C80.9]",Cancer incidence rate,"Rate per 100,000 population",378.6
+2013,Nunavut,"Total, all ages",Both sexes,"Total, all primary sites of cancer [C00.0-C80.9]",Number of new cancer cases,Number,65
+2014,Nunavut,"Total, all ages",Both sexes,"Total, all primary sites of cancer [C00.0-C80.9]",Number of new cancer cases,Number,65
+2015,Nunavut,"Total, all ages",Both sexes,"Total, all primary sites of cancer [C00.0-C80.9]",Number of new cancer cases,Number,70
+2016,Nunavut,"Total, all ages",Both sexes,"Total, all primary sites of cancer [C00.0-C80.9]",Number of new cancer cases,Number,70
+2017,Nunavut,"Total, all ages",Both sexes,"Total, all primary sites of cancer [C00.0-C80.9]",Number of new cancer cases,Number,85
+2013,Nunavut,"Total, all ages",Both sexes,"Total, all primary sites of cancer [C00.0-C80.9]",Cancer incidence rate,"Rate per 100,000 population",183.9
+2014,Nunavut,"Total, all ages",Both sexes,"Total, all primary sites of cancer [C00.0-C80.9]",Cancer incidence rate,"Rate per 100,000 population",180.7
+2015,Nunavut,"Total, all ages",Both sexes,"Total, all primary sites of cancer [C00.0-C80.9]",Cancer incidence rate,"Rate per 100,000 population",191.8
+2016,Nunavut,"Total, all ages",Both sexes,"Total, all primary sites of cancer [C00.0-C80.9]",Cancer incidence rate,"Rate per 100,000 population",189.3
+2017,Nunavut,"Total, all ages",Both sexes,"Total, all primary sites of cancer [C00.0-C80.9]",Cancer incidence rate,"Rate per 100,000 population",226.3
