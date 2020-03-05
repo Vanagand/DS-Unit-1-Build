@@ -1,0 +1,56 @@
+date,geo,val_farms,val_area
+1996,Newfoundland,742,108.3
+2001,Newfoundland,643,100.3
+2006,Newfoundland,558,89.4
+2011,Newfoundland,510,77.3
+2016,Newfoundland,407,70.7
+1996,Prince Edward Island,"2,217",655.4
+2001,Prince Edward Island,"1,845",646.1
+2006,Prince Edward Island,"1,700",619.9
+2011,Prince Edward Island,"1,495",594.3
+2016,Prince Edward Island,"1,353",575.5
+1996,Nova Scotia,"4,453","1,055.9"
+2001,Nova Scotia,"3,923","1,005.8"
+2006,Nova Scotia,"3,795",995.9
+2011,Nova Scotia,"3,905","1,018.1"
+2016,Nova Scotia,"3,478",915.7
+1996,New Brunswick,"3,405",953.9
+2001,New Brunswick,"3,034",958.9
+2006,New Brunswick,"2,776",976.6
+2011,New Brunswick,"2,611",937.8
+2016,New Brunswick,"2,255",835.3
+1996,Quebec,"35,991","8,540.5"
+2001,Quebec,"32,139","8,443.7"
+2006,Quebec,"30,675","8,557.1"
+2011,Quebec,"29,437","8,256.6"
+2016,Quebec,"28,919","8,103.2"
+1996,Ontario,"67,520","13,879.6"
+2001,Ontario,"59,728","13,507.4"
+2006,Ontario,"57,211","13,310.2"
+2011,Ontario,"51,950","12,668.2"
+2016,Ontario,"49,600","12,348.5"
+1996,Manitoba,"24,383","19,106.5"
+2001,Manitoba,"21,071","18,784.4"
+2006,Manitoba,"19,054","19,073.0"
+2011,Manitoba,"15,877","18,023.5"
+2016,Manitoba,"14,791","17,637.6"
+1996,Saskatchewan,"56,995","65,653.6"
+2001,Saskatchewan,"50,598","64,903.8"
+2006,Saskatchewan,"44,329","64,253.8"
+2011,Saskatchewan,"36,952","61,628.1"
+2016,Saskatchewan,"34,523","61,585.8"
+1996,Alberta,"59,007","51,964.4"
+2001,Alberta,"53,652","52,058.9"
+2006,Alberta,"49,431","52,127.9"
+2011,Alberta,"43,234","50,498.8"
+2016,Alberta,"40,638","50,250.2"
+1996,British Columbia,"21,835","6,249.4"
+2001,British Columbia,"20,290","6,392.9"
+2006,British Columbia,"19,844","7,006.6"
+2011,British Columbia,"19,759","6,452.9"
+2016,British Columbia,"17,528","6,400.5"
+1996,Canada,"276,548","168,167.5"
+2001,Canada,"246,923","166,802.2"
+2006,Canada,"229,373","167,010.5"
+2011,Canada,"205,730","160,155.7"
+2016,Canada,"193,492","158,723.1"
