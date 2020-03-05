@@ -1,0 +1,331 @@
+date,geo,farm_class,uom,value
+2011,Canada,Total number of farms,number,205730
+2016,Canada,Total number of farms,number,193492
+2011,Canada,Farms under 10 acres,number,12991
+2016,Canada,Farms under 10 acres,number,13193
+2011,Canada,Farms 10 to 69 acres,number,32705
+2016,Canada,Farms 10 to 69 acres,number,32036
+2011,Canada,Farms 70 to 129 acres,number,24205
+2016,Canada,Farms 70 to 129 acres,number,22494
+2011,Canada,Farms 130 to 179 acres,number,21705
+2016,Canada,Farms 130 to 179 acres,number,20148
+2011,Canada,Farms 180 to 239 acres,number,11719
+2016,Canada,Farms 180 to 239 acres,number,10644
+2011,Canada,Farms 240 to 399 acres,number,24974
+2016,Canada,Farms 240 to 399 acres,number,22986
+2011,Canada,Farms 400 to 559 acres,number,15053
+2016,Canada,Farms 400 to 559 acres,number,13645
+2011,Canada,Farms 560 to 759 acres,number,11781
+2016,Canada,Farms 560 to 759 acres,number,10792
+2011,Canada,"Farms 760 to 1,119 acres",number,13413
+2016,Canada,"Farms 760 to 1,119 acres",number,12143
+2011,Canada,"Farms 1,120 to 1,599 acres",number,10831
+2016,Canada,"Farms 1,120 to 1,599 acres",number,9640
+2011,Canada,"Farms 1,600 to 2,239 acres",number,9222
+2016,Canada,"Farms 1,600 to 2,239 acres",number,8335
+2011,Canada,"Farms 2,240 to 2,879 acres",number,5230
+2016,Canada,"Farms 2,240 to 2,879 acres",number,4982
+2011,Canada,"Farms 2,880 to 3,519 acres",number,3482
+2016,Canada,"Farms 2,880 to 3,519 acres",number,3365
+2011,Canada,"Farms 3,520 acres and over",number,8419
+2016,Canada,"Farms 3,520 acres and over",number,9089
+2011,Newfoundland and Labrador,Total number of farms,number,510
+2016,Newfoundland and Labrador,Total number of farms,number,407
+2011,Newfoundland and Labrador,Farms under 10 acres,number,121
+2016,Newfoundland and Labrador,Farms under 10 acres,number,93
+2011,Newfoundland and Labrador,Farms 10 to 69 acres,number,203
+2016,Newfoundland and Labrador,Farms 10 to 69 acres,number,144
+2011,Newfoundland and Labrador,Farms 70 to 129 acres,number,72
+2016,Newfoundland and Labrador,Farms 70 to 129 acres,number,62
+2011,Newfoundland and Labrador,Farms 130 to 179 acres,number,23
+2016,Newfoundland and Labrador,Farms 130 to 179 acres,number,24
+2011,Newfoundland and Labrador,Farms 180 to 239 acres,number,17
+2016,Newfoundland and Labrador,Farms 180 to 239 acres,number,21
+2011,Newfoundland and Labrador,Farms 240 to 399 acres,number,26
+2016,Newfoundland and Labrador,Farms 240 to 399 acres,number,24
+2011,Newfoundland and Labrador,Farms 400 to 559 acres,number,20
+2016,Newfoundland and Labrador,Farms 400 to 559 acres,number,12
+2011,Newfoundland and Labrador,Farms 560 to 759 acres,number,6
+2016,Newfoundland and Labrador,Farms 560 to 759 acres,number,5
+2011,Newfoundland and Labrador,"Farms 760 to 1,119 acres",number,11
+2016,Newfoundland and Labrador,"Farms 760 to 1,119 acres",number,10
+2011,Newfoundland and Labrador,"Farms 1,120 to 1,599 acres",number,2
+2016,Newfoundland and Labrador,"Farms 1,120 to 1,599 acres",number,2
+2011,Newfoundland and Labrador,"Farms 1,600 to 2,239 acres",number,3
+2016,Newfoundland and Labrador,"Farms 1,600 to 2,239 acres",number,6
+2011,Newfoundland and Labrador,"Farms 2,240 to 2,879 acres",number,4
+2016,Newfoundland and Labrador,"Farms 2,240 to 2,879 acres",number,2
+2011,Newfoundland and Labrador,"Farms 2,880 to 3,519 acres",number,1
+2016,Newfoundland and Labrador,"Farms 2,880 to 3,519 acres",number,1
+2011,Newfoundland and Labrador,"Farms 3,520 acres and over",number,1
+2016,Newfoundland and Labrador,"Farms 3,520 acres and over",number,1
+2011,Prince Edward Island,Total number of farms,number,1495
+2016,Prince Edward Island,Total number of farms,number,1353
+2011,Prince Edward Island,Farms under 10 acres,number,70
+2016,Prince Edward Island,Farms under 10 acres,number,64
+2011,Prince Edward Island,Farms 10 to 69 acres,number,275
+2016,Prince Edward Island,Farms 10 to 69 acres,number,253
+2011,Prince Edward Island,Farms 70 to 129 acres,number,225
+2016,Prince Edward Island,Farms 70 to 129 acres,number,195
+2011,Prince Edward Island,Farms 130 to 179 acres,number,141
+2016,Prince Edward Island,Farms 130 to 179 acres,number,116
+2011,Prince Edward Island,Farms 180 to 239 acres,number,128
+2016,Prince Edward Island,Farms 180 to 239 acres,number,115
+2011,Prince Edward Island,Farms 240 to 399 acres,number,238
+2016,Prince Edward Island,Farms 240 to 399 acres,number,207
+2011,Prince Edward Island,Farms 400 to 559 acres,number,110
+2016,Prince Edward Island,Farms 400 to 559 acres,number,106
+2011,Prince Edward Island,Farms 560 to 759 acres,number,89
+2016,Prince Edward Island,Farms 560 to 759 acres,number,87
+2011,Prince Edward Island,"Farms 760 to 1,119 acres",number,99
+2016,Prince Edward Island,"Farms 760 to 1,119 acres",number,82
+2011,Prince Edward Island,"Farms 1,120 to 1,599 acres",number,47
+2016,Prince Edward Island,"Farms 1,120 to 1,599 acres",number,53
+2011,Prince Edward Island,"Farms 1,600 to 2,239 acres",number,36
+2016,Prince Edward Island,"Farms 1,600 to 2,239 acres",number,29
+2011,Prince Edward Island,"Farms 2,240 to 2,879 acres",number,21
+2016,Prince Edward Island,"Farms 2,240 to 2,879 acres",number,27
+2011,Prince Edward Island,"Farms 2,880 to 3,519 acres",number,11
+2016,Prince Edward Island,"Farms 2,880 to 3,519 acres",number,13
+2011,Prince Edward Island,"Farms 3,520 acres and over",number,5
+2016,Prince Edward Island,"Farms 3,520 acres and over",number,6
+2011,Nova Scotia,Total number of farms,number,3905
+2016,Nova Scotia,Total number of farms,number,3478
+2011,Nova Scotia,Farms under 10 acres,number,406
+2016,Nova Scotia,Farms under 10 acres,number,413
+2011,Nova Scotia,Farms 10 to 69 acres,number,907
+2016,Nova Scotia,Farms 10 to 69 acres,number,856
+2011,Nova Scotia,Farms 70 to 129 acres,number,637
+2016,Nova Scotia,Farms 70 to 129 acres,number,501
+2011,Nova Scotia,Farms 130 to 179 acres,number,317
+2016,Nova Scotia,Farms 130 to 179 acres,number,280
+2011,Nova Scotia,Farms 180 to 239 acres,number,343
+2016,Nova Scotia,Farms 180 to 239 acres,number,295
+2011,Nova Scotia,Farms 240 to 399 acres,number,574
+2016,Nova Scotia,Farms 240 to 399 acres,number,471
+2011,Nova Scotia,Farms 400 to 559 acres,number,302
+2016,Nova Scotia,Farms 400 to 559 acres,number,310
+2011,Nova Scotia,Farms 560 to 759 acres,number,192
+2016,Nova Scotia,Farms 560 to 759 acres,number,148
+2011,Nova Scotia,"Farms 760 to 1,119 acres",number,137
+2016,Nova Scotia,"Farms 760 to 1,119 acres",number,111
+2011,Nova Scotia,"Farms 1,120 to 1,599 acres",number,48
+2016,Nova Scotia,"Farms 1,120 to 1,599 acres",number,43
+2011,Nova Scotia,"Farms 1,600 to 2,239 acres",number,21
+2016,Nova Scotia,"Farms 1,600 to 2,239 acres",number,28
+2011,Nova Scotia,"Farms 2,240 to 2,879 acres",number,6
+2016,Nova Scotia,"Farms 2,240 to 2,879 acres",number,6
+2011,Nova Scotia,"Farms 2,880 to 3,519 acres",number,4
+2016,Nova Scotia,"Farms 2,880 to 3,519 acres",number,8
+2011,Nova Scotia,"Farms 3,520 acres and over",number,11
+2016,Nova Scotia,"Farms 3,520 acres and over",number,8
+2011,New Brunswick,Total number of farms,number,2611
+2016,New Brunswick,Total number of farms,number,2255
+2011,New Brunswick,Farms under 10 acres,number,187
+2016,New Brunswick,Farms under 10 acres,number,200
+2011,New Brunswick,Farms 10 to 69 acres,number,420
+2016,New Brunswick,Farms 10 to 69 acres,number,402
+2011,New Brunswick,Farms 70 to 129 acres,number,389
+2016,New Brunswick,Farms 70 to 129 acres,number,280
+2011,New Brunswick,Farms 130 to 179 acres,number,198
+2016,New Brunswick,Farms 130 to 179 acres,number,184
+2011,New Brunswick,Farms 180 to 239 acres,number,249
+2016,New Brunswick,Farms 180 to 239 acres,number,202
+2011,New Brunswick,Farms 240 to 399 acres,number,408
+2016,New Brunswick,Farms 240 to 399 acres,number,362
+2011,New Brunswick,Farms 400 to 559 acres,number,290
+2016,New Brunswick,Farms 400 to 559 acres,number,211
+2011,New Brunswick,Farms 560 to 759 acres,number,174
+2016,New Brunswick,Farms 560 to 759 acres,number,143
+2011,New Brunswick,"Farms 760 to 1,119 acres",number,154
+2016,New Brunswick,"Farms 760 to 1,119 acres",number,136
+2011,New Brunswick,"Farms 1,120 to 1,599 acres",number,70
+2016,New Brunswick,"Farms 1,120 to 1,599 acres",number,60
+2011,New Brunswick,"Farms 1,600 to 2,239 acres",number,41
+2016,New Brunswick,"Farms 1,600 to 2,239 acres",number,39
+2011,New Brunswick,"Farms 2,240 to 2,879 acres",number,11
+2016,New Brunswick,"Farms 2,240 to 2,879 acres",number,14
+2011,New Brunswick,"Farms 2,880 to 3,519 acres",number,3
+2016,New Brunswick,"Farms 2,880 to 3,519 acres",number,3
+2011,New Brunswick,"Farms 3,520 acres and over",number,17
+2016,New Brunswick,"Farms 3,520 acres and over",number,19
+2011,Quebec,Total number of farms,number,29437
+2016,Quebec,Total number of farms,number,28919
+2011,Quebec,Farms under 10 acres,number,1956
+2016,Quebec,Farms under 10 acres,number,2137
+2011,Quebec,Farms 10 to 69 acres,number,5152
+2016,Quebec,Farms 10 to 69 acres,number,5514
+2011,Quebec,Farms 70 to 129 acres,number,4617
+2016,Quebec,Farms 70 to 129 acres,number,4704
+2011,Quebec,Farms 130 to 179 acres,number,2914
+2016,Quebec,Farms 130 to 179 acres,number,2728
+2011,Quebec,Farms 180 to 239 acres,number,3221
+2016,Quebec,Farms 180 to 239 acres,number,2875
+2011,Quebec,Farms 240 to 399 acres,number,5291
+2016,Quebec,Farms 240 to 399 acres,number,4779
+2011,Quebec,Farms 400 to 559 acres,number,2735
+2016,Quebec,Farms 400 to 559 acres,number,2539
+2011,Quebec,Farms 560 to 759 acres,number,1522
+2016,Quebec,Farms 560 to 759 acres,number,1514
+2011,Quebec,"Farms 760 to 1,119 acres",number,1165
+2016,Quebec,"Farms 760 to 1,119 acres",number,1195
+2011,Quebec,"Farms 1,120 to 1,599 acres",number,503
+2016,Quebec,"Farms 1,120 to 1,599 acres",number,514
+2011,Quebec,"Farms 1,600 to 2,239 acres",number,217
+2016,Quebec,"Farms 1,600 to 2,239 acres",number,261
+2011,Quebec,"Farms 2,240 to 2,879 acres",number,83
+2016,Quebec,"Farms 2,240 to 2,879 acres",number,96
+2011,Quebec,"Farms 2,880 to 3,519 acres",number,27
+2016,Quebec,"Farms 2,880 to 3,519 acres",number,34
+2011,Quebec,"Farms 3,520 acres and over",number,34
+2016,Quebec,"Farms 3,520 acres and over",number,29
+2011,Ontario,Total number of farms,number,51950
+2016,Ontario,Total number of farms,number,49600
+2011,Ontario,Farms under 10 acres,number,2741
+2016,Ontario,Farms under 10 acres,number,3051
+2011,Ontario,Farms 10 to 69 acres,number,12681
+2016,Ontario,Farms 10 to 69 acres,number,12625
+2011,Ontario,Farms 70 to 129 acres,number,11779
+2016,Ontario,Farms 70 to 129 acres,number,10742
+2011,Ontario,Farms 130 to 179 acres,number,4969
+2016,Ontario,Farms 130 to 179 acres,number,4592
+2011,Ontario,Farms 180 to 239 acres,number,4801
+2016,Ontario,Farms 180 to 239 acres,number,4282
+2011,Ontario,Farms 240 to 399 acres,number,6460
+2016,Ontario,Farms 240 to 399 acres,number,6008
+2011,Ontario,Farms 400 to 559 acres,number,3359
+2016,Ontario,Farms 400 to 559 acres,number,3093
+2011,Ontario,Farms 560 to 759 acres,number,2026
+2016,Ontario,Farms 560 to 759 acres,number,1990
+2011,Ontario,"Farms 760 to 1,119 acres",number,1587
+2016,Ontario,"Farms 760 to 1,119 acres",number,1593
+2011,Ontario,"Farms 1,120 to 1,599 acres",number,788
+2016,Ontario,"Farms 1,120 to 1,599 acres",number,801
+2011,Ontario,"Farms 1,600 to 2,239 acres",number,436
+2016,Ontario,"Farms 1,600 to 2,239 acres",number,457
+2011,Ontario,"Farms 2,240 to 2,879 acres",number,152
+2016,Ontario,"Farms 2,240 to 2,879 acres",number,168
+2011,Ontario,"Farms 2,880 to 3,519 acres",number,79
+2016,Ontario,"Farms 2,880 to 3,519 acres",number,88
+2011,Ontario,"Farms 3,520 acres and over",number,92
+2016,Ontario,"Farms 3,520 acres and over",number,110
+2011,Manitoba,Total number of farms,number,15877
+2016,Manitoba,Total number of farms,number,14791
+2011,Manitoba,Farms under 10 acres,number,462
+2016,Manitoba,Farms under 10 acres,number,396
+2011,Manitoba,Farms 10 to 69 acres,number,1324
+2016,Manitoba,Farms 10 to 69 acres,number,1273
+2011,Manitoba,Farms 70 to 129 acres,number,957
+2016,Manitoba,Farms 70 to 129 acres,number,930
+2011,Manitoba,Farms 130 to 179 acres,number,1421
+2016,Manitoba,Farms 130 to 179 acres,number,1323
+2011,Manitoba,Farms 180 to 239 acres,number,520
+2016,Manitoba,Farms 180 to 239 acres,number,488
+2011,Manitoba,Farms 240 to 399 acres,number,1674
+2016,Manitoba,Farms 240 to 399 acres,number,1676
+2011,Manitoba,Farms 400 to 559 acres,number,1296
+2016,Manitoba,Farms 400 to 559 acres,number,1171
+2011,Manitoba,Farms 560 to 759 acres,number,1311
+2016,Manitoba,Farms 560 to 759 acres,number,1061
+2011,Manitoba,"Farms 760 to 1,119 acres",number,1777
+2016,Manitoba,"Farms 760 to 1,119 acres",number,1569
+2011,Manitoba,"Farms 1,120 to 1,599 acres",number,1557
+2016,Manitoba,"Farms 1,120 to 1,599 acres",number,1388
+2011,Manitoba,"Farms 1,600 to 2,239 acres",number,1359
+2016,Manitoba,"Farms 1,600 to 2,239 acres",number,1275
+2011,Manitoba,"Farms 2,240 to 2,879 acres",number,716
+2016,Manitoba,"Farms 2,240 to 2,879 acres",number,674
+2011,Manitoba,"Farms 2,880 to 3,519 acres",number,508
+2016,Manitoba,"Farms 2,880 to 3,519 acres",number,494
+2011,Manitoba,"Farms 3,520 acres and over",number,995
+2016,Manitoba,"Farms 3,520 acres and over",number,1073
+2011,Saskatchewan,Total number of farms,number,36952
+2016,Saskatchewan,Total number of farms,number,34523
+2011,Saskatchewan,Farms under 10 acres,number,345
+2016,Saskatchewan,Farms under 10 acres,number,334
+2011,Saskatchewan,Farms 10 to 69 acres,number,967
+2016,Saskatchewan,Farms 10 to 69 acres,number,1069
+2011,Saskatchewan,Farms 70 to 129 acres,number,975
+2016,Saskatchewan,Farms 70 to 129 acres,number,1008
+2011,Saskatchewan,Farms 130 to 179 acres,number,3780
+2016,Saskatchewan,Farms 130 to 179 acres,number,3722
+2011,Saskatchewan,Farms 180 to 239 acres,number,632
+2016,Saskatchewan,Farms 180 to 239 acres,number,668
+2011,Saskatchewan,Farms 240 to 399 acres,number,3969
+2016,Saskatchewan,Farms 240 to 399 acres,number,3664
+2011,Saskatchewan,Farms 400 to 559 acres,number,2755
+2016,Saskatchewan,Farms 400 to 559 acres,number,2501
+2011,Saskatchewan,Farms 560 to 759 acres,number,2808
+2016,Saskatchewan,Farms 560 to 759 acres,number,2580
+2011,Saskatchewan,"Farms 760 to 1,119 acres",number,4066
+2016,Saskatchewan,"Farms 760 to 1,119 acres",number,3521
+2011,Saskatchewan,"Farms 1,120 to 1,599 acres",number,4146
+2016,Saskatchewan,"Farms 1,120 to 1,599 acres",number,3490
+2011,Saskatchewan,"Farms 1,600 to 2,239 acres",number,4152
+2016,Saskatchewan,"Farms 1,600 to 2,239 acres",number,3516
+2011,Saskatchewan,"Farms 2,240 to 2,879 acres",number,2521
+2016,Saskatchewan,"Farms 2,240 to 2,879 acres",number,2360
+2011,Saskatchewan,"Farms 2,880 to 3,519 acres",number,1724
+2016,Saskatchewan,"Farms 2,880 to 3,519 acres",number,1595
+2011,Saskatchewan,"Farms 3,520 acres and over",number,4112
+2016,Saskatchewan,"Farms 3,520 acres and over",number,4495
+2011,Alberta,Total number of farms,number,43234
+2016,Alberta,Total number of farms,number,40638
+2011,Alberta,Farms under 10 acres,number,879
+2016,Alberta,Farms under 10 acres,number,1018
+2011,Alberta,Farms 10 to 69 acres,number,3638
+2016,Alberta,Farms 10 to 69 acres,number,3702
+2011,Alberta,Farms 70 to 129 acres,number,3030
+2016,Alberta,Farms 70 to 129 acres,number,2824
+2011,Alberta,Farms 130 to 179 acres,number,6581
+2016,Alberta,Farms 130 to 179 acres,number,6045
+2011,Alberta,Farms 180 to 239 acres,number,1336
+2016,Alberta,Farms 180 to 239 acres,number,1289
+2011,Alberta,Farms 240 to 399 acres,number,5395
+2016,Alberta,Farms 240 to 399 acres,number,4918
+2011,Alberta,Farms 400 to 559 acres,number,3653
+2016,Alberta,Farms 400 to 559 acres,number,3257
+2011,Alberta,Farms 560 to 759 acres,number,3258
+2016,Alberta,Farms 560 to 759 acres,number,2947
+2011,Alberta,"Farms 760 to 1,119 acres",number,3997
+2016,Alberta,"Farms 760 to 1,119 acres",number,3565
+2011,Alberta,"Farms 1,120 to 1,599 acres",number,3335
+2016,Alberta,"Farms 1,120 to 1,599 acres",number,3012
+2011,Alberta,"Farms 1,600 to 2,239 acres",number,2694
+2016,Alberta,"Farms 1,600 to 2,239 acres",number,2529
+2011,Alberta,"Farms 2,240 to 2,879 acres",number,1575
+2016,Alberta,"Farms 2,240 to 2,879 acres",number,1497
+2011,Alberta,"Farms 2,880 to 3,519 acres",number,1025
+2016,Alberta,"Farms 2,880 to 3,519 acres",number,1027
+2011,Alberta,"Farms 3,520 acres and over",number,2838
+2016,Alberta,"Farms 3,520 acres and over",number,3008
+2011,British Columbia,Total number of farms,number,19759
+2016,British Columbia,Total number of farms,number,17528
+2011,British Columbia,Farms under 10 acres,number,5824
+2016,British Columbia,Farms under 10 acres,number,5487
+2011,British Columbia,Farms 10 to 69 acres,number,7138
+2016,British Columbia,Farms 10 to 69 acres,number,6198
+2011,British Columbia,Farms 70 to 129 acres,number,1524
+2016,British Columbia,Farms 70 to 129 acres,number,1248
+2011,British Columbia,Farms 130 to 179 acres,number,1361
+2016,British Columbia,Farms 130 to 179 acres,number,1134
+2011,British Columbia,Farms 180 to 239 acres,number,472
+2016,British Columbia,Farms 180 to 239 acres,number,409
+2011,British Columbia,Farms 240 to 399 acres,number,939
+2016,British Columbia,Farms 240 to 399 acres,number,877
+2011,British Columbia,Farms 400 to 559 acres,number,533
+2016,British Columbia,Farms 400 to 559 acres,number,445
+2011,British Columbia,Farms 560 to 759 acres,number,395
+2016,British Columbia,Farms 560 to 759 acres,number,317
+2011,British Columbia,"Farms 760 to 1,119 acres",number,420
+2016,British Columbia,"Farms 760 to 1,119 acres",number,361
+2011,British Columbia,"Farms 1,120 to 1,599 acres",number,335
+2016,British Columbia,"Farms 1,120 to 1,599 acres",number,277
+2011,British Columbia,"Farms 1,600 to 2,239 acres",number,263
+2016,British Columbia,"Farms 1,600 to 2,239 acres",number,195
+2011,British Columbia,"Farms 2,240 to 2,879 acres",number,141
+2016,British Columbia,"Farms 2,240 to 2,879 acres",number,138
+2011,British Columbia,"Farms 2,880 to 3,519 acres",number,100
+2016,British Columbia,"Farms 2,880 to 3,519 acres",number,102
+2011,British Columbia,"Farms 3,520 acres and over",number,314
+2016,British Columbia,"Farms 3,520 acres and over",number,340
